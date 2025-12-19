@@ -26,13 +26,13 @@ Principais KPIs
 - Performance por loja
 
 Dashboards
+
 - Visão Geral do Desempenho Comercial
-Apresenta a evolução das vendas ao longo do tempo e a comparação
-de desempenho entre as lojas.
+![Visão Geral](visao-geral.png)
 
 - Performance Comercial
-Destaca os números consolidados e os principais produtos e funcionários
-responsáveis pelos resultados.
+![Performance](performance.png)
+
 
 Observações
 Projeto desenvolvido com foco em boas práticas de modelagem,
